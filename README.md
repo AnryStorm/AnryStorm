@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wUekZ8kF515hluZBKc/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/wUekZ8kF515hluZBKc/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://vk.com/anry_storm">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
@@ -13,21 +13,25 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AnryStorm&style=flat-square&color=blue" alt=""/>
 <h1>
-    
+---
+
 Hey there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+---
   
 <div align="center">
   <img src="https://media.giphy.com/media/7MP2oPL3wZRKg/giphy.gif" width="600" height="300"/>
 </div> 
-
+---
+  
 :man_technologist: About me:
 I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
 - :telescope: At the moment I am looking for a job.
 
 - :zap: In my free time, I enjoy tourism and video games.
-
+---
+  
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -40,10 +44,10 @@ I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-  :fire: My Stats :
+---
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnryStorm&theme=highcontrast)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnryStorm&layout=compact&theme=vision-friendly-dark)]
+:fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnryStorm&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnryStorm&layout=compact&theme=vision-friendly-dark)]
 
   
