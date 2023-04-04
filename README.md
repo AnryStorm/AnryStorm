@@ -38,5 +38,6 @@ I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 
 :fire: My Stats :
-  https://github-readme-streak-stats.herokuapp.com/?user=AnryStorm
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnryStorm&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnryStorm&theme=highcontrast)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnryStorm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
