@@ -16,15 +16,13 @@
 
 
 Hey there! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 <div align="center">
   <img src="https://media.giphy.com/media/7MP2oPL3wZRKg/giphy.gif" width="600" height="300"/>
 </div> 
----
   
-:man_technologist: About me:
+### :man_technologist: About me:
 I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
 - :telescope: At the moment I am looking for a job.
@@ -32,7 +30,7 @@ I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 - :zap: In my free time, I enjoy tourism and video games.
 
   
-:hammer_and_wrench: Languages and Tools :
+###:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; 
@@ -46,7 +44,7 @@ I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 
   
-  :fire: My Stats :
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnryStorm&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnryStorm&layout=compact&theme=vision-friendly-dark)]
 
