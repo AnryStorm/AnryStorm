@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://novorossiysk.hh.ru/resume/768f148cff0b76fb820039ed1f673035364b52">
-    <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=HH&logoColor=white" alt="HH Badge"/>
+    <img src="https://img.shields.io/badge/hh-dark red?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
 </div>
