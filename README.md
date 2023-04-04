@@ -1,14 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wUekZ8kF515hluZBKc/giphy.gif" width="200"/>
 </div>
+
 <div id="badges">
-  <a href="your-VK-URL">
+  <a href="https://vk.com/anry_storm">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCuH9GR-lTSrQ3tRW0zdZwbQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://novorossiysk.hh.ru/resume/768f148cff0b76fb820039ed1f673035364b52">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
