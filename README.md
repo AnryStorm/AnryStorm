@@ -10,5 +10,5 @@
   <a href="https://novorossiysk.hh.ru/resume/768f148cff0b76fb820039ed1f673035364b52">
     <img src="https://img.shields.io/badge/hh-darkred?style=for-the-badge&logo=hh&logoColor=white" alt="hh Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=AnryStorm&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=AnryStorm&style=flat-square&color=blue" alt=""/>
 </div>
