@@ -14,6 +14,10 @@
 <img src="https://komarev.com/ghpvc/?username=AnryStorm&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey there! 
-  It's Storm!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+  ---:man_technologist: About me:
+  
+  I am a Novice QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  
