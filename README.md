@@ -13,6 +13,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AnryStorm&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there! It's Storm!
+  Hey there! 
+  It's Storm!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
